@@ -4,7 +4,7 @@
 # Site settings
 title: Amir Hosseini
 description: |
-  <img src="https://arash-amd.github.io/images/pic01.jpg" alt="Alt text"/>
+  <img src="/images/pic02.jpg" alt="Alt text"/>
 owner: Amir Hosseini # or company name
 first_published: 2018 # if migrating another site, the year of your first publish
 email: your-email@domain.com
